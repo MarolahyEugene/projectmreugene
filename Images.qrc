@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icon/close.png</file>
+        <file>icon/corbeille.PNG</file>
+        <file>icon/home1.fw.png</file>
+        <file>icon/loading.gif</file>
+        <file>icon/options.png</file>
+        <file>icon/PGB_dl.png</file>
+        <file>icon/PGB_rebuild.png</file>
+        <file>icon/PGB_signing.png</file>
+        <file>icon/qt_account.png</file>
+        <file>icon/record.png</file>
+        <file>icon/record_audio.png</file>
+        <file>icon/actualiser.png</file>
+        <file>icon/userGuide.png</file>
+        <file>icon/admin.png</file>
+        <file>icon/Admin1.png</file>
+        <file>icon/Admin2.png</file>
+        <file>icon/edit.png</file>
+        <file>icon/05.png</file>
+        <file>icon/img03.png</file>
+        <file>icon/storms2.jpg</file>
+        <file>icon/05.jpg</file>
+        <file>icon/03.jpg</file>
+        <file>icon/08.jpg</file>
+        <file>icon/im (1).JPG</file>
+        <file>icon/im (3).JPG</file>
+        <file>icon/im (13).JPG</file>
+        <file>icon/im (14).JPG</file>
+        <file>icon/im (15).JPG</file>
+        <file>icon/snow.jpg</file>
+        <file>icon/Windows 8.jpg</file>
+        <file>icon/aloe1.jpg</file>
+        <file>icon/aloe2.jpg</file>
+        <file>icon/aloe3.jpg</file>
+    </qresource>
+</RCC>
